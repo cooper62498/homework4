@@ -123,6 +123,9 @@ header p {
   text-align: center;
 }
 
+main {
+  display: grid;
+}
 
 .container {
   /*Your code here  */
